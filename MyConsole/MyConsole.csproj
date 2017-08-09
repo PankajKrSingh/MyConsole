@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyConsole.UseAbstractClass</StartupObject>
+    <StartupObject>MyConsole.Palindrome</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="ExceptionTest.cs" />
     <Compile Include="FactDemo.cs" />
     <Compile Include="ICalculator.cs" />
+    <Compile Include="Palindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Recursion.cs" />
