@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyConsole.ExtensionMethodTest</StartupObject>
+    <StartupObject>MyConsole.ReverseInteger</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,14 +48,24 @@
     <Compile Include="AbstractClass.cs" />
     <Compile Include="AmountInWords.cs" />
     <Compile Include="Calculator.cs" />
+    <Compile Include="CommaSeparated.cs" />
+    <Compile Include="Department.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="ExceptionTest.cs" />
     <Compile Include="ExtensionMethodTest.cs" />
     <Compile Include="FactDemo.cs" />
     <Compile Include="ICalculator.cs" />
+    <Compile Include="GroupJoinExample.cs" />
+    <Compile Include="InnerJoinExample.cs" />
+    <Compile Include="LeftJoinExample.cs" />
+    <Compile Include="OverloadingExample.cs" />
     <Compile Include="Palindrome.cs" />
+    <Compile Include="PalindromeTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Recursion.cs" />
+    <Compile Include="ReverseInteger.cs" />
+    <Compile Include="ReverseString.cs" />
     <Compile Include="StringTest.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="TestGeneric.cs" />

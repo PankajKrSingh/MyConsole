@@ -16,7 +16,7 @@ namespace MyConsole
         }
     }
 
-    public static class StringHelper
+    public static partial class StringHelper
     {
         public static string ChangeFirstLetterCase(this string inputString)
         {
